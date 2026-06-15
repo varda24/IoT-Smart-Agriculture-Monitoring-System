@@ -241,7 +241,7 @@ The Streamlit dashboard provides:
 
 ## Dashboard
 
-![Dashboard](images/dashboard(4).png)
+![Dashboard](images/dashboard.png)
 
 ## Pump ON State
 
