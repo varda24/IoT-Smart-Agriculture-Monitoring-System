@@ -241,7 +241,7 @@ The Streamlit dashboard provides:
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard(4).png)
 
 ## Pump ON State
 
@@ -253,7 +253,7 @@ The Streamlit dashboard provides:
 
 ## Alert Monitoring
 
-![Alerts](images/alerts.png)
+![Alerts](images/alert.png)
 
 ## Folder Structure
 
