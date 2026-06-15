@@ -235,45 +235,29 @@ The Streamlit dashboard provides:
 
 # 📸 Screenshots
 
-## Wokwi Circuit Simulation
+## Wokwi Circuit
 
-Add screenshot:
-
-```text
-images/wokwi_circuit.png
-```
+![Wokwi Circuit](images/wokwi_circuit.png)
 
 ## Dashboard
 
-Add screenshot:
-
-```text
-images/dashboard.png
-```
+![Dashboard](images/dashboard.png)
 
 ## Pump ON State
 
-Add screenshot:
-
-```text
-images/pump_on.png
-```
+![Pump ON](images/pump_on.png)
 
 ## Pump OFF State
 
-Add screenshot:
-
-```text
-images/pump_off.png
-```
+![Pump OFF](images/pump_off.png)
 
 ## Alert Monitoring
 
-Add screenshot:
+![Alerts](images/alerts.png)
 
-```text
-images/alerts.png
-```
+## Folder Structure
+
+![Folder Structure](images/folder_structure.png)
 
 ---
 
